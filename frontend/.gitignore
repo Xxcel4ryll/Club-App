@@ -1,0 +1,4 @@
+node_modules
+dist/scss/style.scss
+dist/scss/_custom.scss
+dist/scss/_config.scss
